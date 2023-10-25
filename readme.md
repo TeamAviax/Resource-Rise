@@ -24,23 +24,7 @@ To make the most of Resource Rise, here's how you can get started:
 
 4. **Stay Updated**: Periodically check for updates and new resources. The academic landscape is always evolving, and we aim to keep this repository up-to-date.
 
-## Courses
 
-- [Introduction to Programming (CSE101)](./courses/cse101)
-- [Calculus and Differential Equations (MATH101)](./courses/math101)
-- [Engineering Physics (PHY101)](./courses/phy101)
-- [Engineering Chemistry (CHE101)](./courses/che101)
-- [Professional Communication (ENG101)](./courses/eng101)
-- [Engineering Graphics (MEC101)](./courses/mec101)
-
-## Study Materials
-
-Explore study materials, lecture notes, and guides for various courses. These resources will help you better understand and excel in your subjects.
-
-- [Lecture Notes](./study-materials/lecture-notes)
-- [Textbooks](./study-materials/textbooks)
-- [Sample Assignments](./study-materials/assignments)
-- [Previous Year Question Papers](./study-materials/question-papers)
 
 ## Online Platforms
 
